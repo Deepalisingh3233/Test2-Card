@@ -1,0 +1,70 @@
+*{
+    font-family: sans-serif;
+}
+.container{
+    background-color: #DCDCDC;
+    padding: 20px;
+    margin: 20px;
+    width: 900px;
+    border-radius: 16px;
+    display: flex;
+}
+
+.btn{
+    background-color: red;
+    border: 1px solid red;
+    border-radius: 16px;
+    width: 60px;
+    height: 25px;
+    color: white;
+    font-weight: 100;
+}
+.fa fa-clock-o{
+    font-size: 50px;
+    border: 1px solid black;
+}
+.image{
+    padding-left: 20px;
+    border-radius: 16px;
+}
+.img{
+    width: 400px;
+    height: auto;
+    border-radius: 16px;
+    padding-left: 150px;
+}
+.btn2{
+    margin-top: 40px;
+    padding-left: 100px;
+}
+.zoombtn{
+    background-color: blue;
+    color: white;
+    border-radius: 25px;
+    border: 1px solid blue;
+    font-size: 18px;
+    width: 120px;
+    height: 50px;
+    margin-left: 300px;
+}
+span{
+    text-align: center;
+}
+.round-img{
+    height: 30px;
+    border-radius: 50%;
+}
+.img2{
+    display: flex;
+}
+.round-img2{
+    height: 50px;
+    border-radius: 50%;
+}
+.circle{
+    height: 50px;
+    width: 50px;
+    background-color:white;
+    border-radius: 50%;
+    text-align: center;
+}
